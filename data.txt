@@ -1,0 +1,30 @@
+file : .\data.txt
+---
+
+**English:**
+
+Python is a popular programming language known for its simplicity and readability.
+It is widely used in web development, data science, artificial intelligence, and automation.
+Learning Python is a great starting point for beginners in programming because of its clear syntax.
+Many online courses and tutorials are available to help learners understand Python basics.
+Writing Python code allows you to solve problems efficiently and creatively.
+You can create applications, analyze data, or even build games with Python.
+The large community support makes it easy to find solutions to common problems.
+Python libraries like NumPy, Pandas, and Matplotlib are essential for data analysis.
+Practice and consistent coding improve your skills over time.
+Overall, Python is a versatile tool that opens many career opportunities.
+
+---
+
+**فارسی:**
+
+پایتون یک زبان برنامه‌نویسی محبوب است که به خاطر سادگی و خوانایی شناخته شده است. این زبان در توسعه وب، علم داده، هوش مصنوعی و اتوماسیون بسیار استفاده می‌شود. یادگیری پایتون برای مبتدیان یک نقطه شروع عالی است به دلیل سینتکس واضح آن.
+دوره‌ها و آموزش‌های آنلاین زیادی وجود دارد که به یادگیرندگان کمک می‌کند اصول پایتون را بفهمند.
+نوشتن کد پایتون به شما امکان می‌دهد مسائل را به صورت کارآمد و خلاقانه حل کنید.
+می‌توانید با پایتون برنامه بسازید، داده‌ها را تحلیل کنید یا حتی بازی طراحی کنید. پشتیبانی گسترده جامعه باعث می‌شود یافتن راه‌حل برای مشکلات رایج آسان باشد.
+کتابخانه‌های پایتون مانند NumPy، Pandas و Matplotlib برای تحلیل داده‌ها ضروری هستند.
+تمرین و کدنویسی منظم به مرور مهارت‌های شما را بهبود می‌بخشد.
+به طور کلی، پایتون ابزاری چندمنظوره است که فرصت‌های شغلی زیادی ایجاد می‌کند.
+
+---
+
