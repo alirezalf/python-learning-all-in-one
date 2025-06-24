@@ -16,11 +16,9 @@ https://github.com/alirezalf/python-learning-all-in-one.git
 
 ## 🖼 تصویر محیط برنامه
 
-> لطفاً پس از اجرای برنامه، یک اسکرین‌شات از محیط بگیرید و با نام `screenshot.png` در ریشه پروژه ذخیره کنید.  
-> برای مثال در GitHub به این صورت اضافه شود:
 
 ```markdown
-![نمایی از برنامه](screenshot.png)
+![نمایی از برنامه][(screenshot.png)](https://raw.githubusercontent.com/alirezalf/python-learning-all-in-one/master/screenshot.png))
 ```
 
 ---
