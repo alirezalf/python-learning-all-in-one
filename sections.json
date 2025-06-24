@@ -846,7 +846,7 @@
     {
         "title": "Asynchronous Functions (async/await)",
         "description": "تابع‌های ناهمگام \n(async/await)\n برای اجرای عملیات غیرهمزمان.",
-        "code": "import async\nasync def say_hello():\n    await asyncio.sleep(1)\n    print('Hello after 1 second')\n\nasync def main():\n    await say_hello()\n\n# Run the async code\nasyncio.run(main())"
+        "code": "import async \nasync def say_hello():\n    await asyncio.sleep(1)\n    print('Hello after 1 second')\n\nasync def main():\n    await say_hello()\n\n# Run the async code\nasyncio.run(main())"
     }
 ],
 "کار با فایل‌ها": [
