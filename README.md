@@ -18,7 +18,7 @@ https://github.com/alirezalf/python-learning-all-in-one.git
 
 
 ```markdown
-![نمایی از برنامه][(screenshot.png)](https://raw.githubusercontent.com/alirezalf/python-learning-all-in-one/master/screenshot.png))
+![نمایی از برنامه][(screenshot.png)](https://raw.githubusercontent.com/alirezalf/python-learning-all-in-one/master/screenshot.png)
 ```
 
 ---
